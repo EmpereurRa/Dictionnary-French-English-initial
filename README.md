@@ -2,7 +2,7 @@
 
 ### Note to all readers
 This isn't perfect now, sorry.
-Ce n'est pas parfait maintenant, désolée.
+
 
 ## Dependencies
 * Python 3.7
